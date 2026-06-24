@@ -1,4 +1,4 @@
-# Insurance Risk Classifier
+## Insurance Risk Classifier
 
 A full-stack ML pipeline that scores insurance applicants/policies for claim
 risk. It outputs a **calibrated probability**, maps it to a **low/medium/high
